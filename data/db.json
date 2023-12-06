@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "April 23, 2001 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "datetime": "April 23, 2001 11:17:36 AM",
+      "body": "Made a video about React Q1 results"
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "datetime": "April 23, 2001 11:17:36 AM",
+      "body": "Made a video about Springboot Q1 results"
+    },
+    {
+      "id": 4,
+      "title": "Router media",
+      "datetime": "December 06, 2023 11:16:47 AM",
+      "body": "simple social media application using react router"
+    },
+    {
+      "id": 5,
+      "title": "one",
+      "datetime": "December 06, 2023 3:50:31 PM",
+      "body": "new"
+    }
+  ]
+}
